@@ -13,6 +13,7 @@ This Text Summarization Project aims to develop a tool that efficiently condense
   2. Sumy
   3. Lex Rank
   4. LSA
+     
   Later stage of the notebook consists of the combined code to implement the above algorithms.
 
   Open file Extractive_Summarization_Techniques.ipynb and run all the cells to demonstrate the working of each algorithm.

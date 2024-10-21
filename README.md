@@ -29,4 +29,12 @@ This Text Summarization Project aims to develop a tool that efficiently condense
   5. Aggregate Scores: After iterating through the dataset, calculate the average ROUGE scores for each model across all articles. This will give you a comparative measure of how well each model performs.
 
   Open file Extractive_Summarization_Techniques.ipynb and run all the cells to demonstrate the working of each algorithm.
+  
+#### Implementation of Abstractive Summarization Techniques
+  Text Summarization using Abstractive Summarization Techniques:
+  1. Google's T5 Approach
+  2. Facebook's BART Approach
+
+  After implementing the approaches, we compare both of them using ROUGE score method.
+
 

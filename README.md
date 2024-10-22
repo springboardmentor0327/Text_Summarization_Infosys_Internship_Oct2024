@@ -19,4 +19,4 @@ The global smartphone market experienced a significant shift in 2023, with total
 
 # Gradio
 
-![Gradio](./images/BART Text summarisation.png)
+![Gradio](./images/BART-Text-summarisation.png)

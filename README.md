@@ -16,7 +16,3 @@ The global smartphone market experienced a significant shift in 2023, with total
 |:-----------|-------------------|:------------------|:------------------|
 | BART       | 0.5433            | 0.4921            | 0.5118            |
 | T5         | 0.3644            | 0.3318            | 0.3644            |
-
-# Gradio
-
-![Gradio](./images/BART-Text-summarisation.png)

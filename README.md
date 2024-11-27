@@ -41,7 +41,7 @@ The project is organized into the following directories, corresponding to differ
 ### **3. Week3-4: Enhanced Models and Evaluation**
 - **Files**:
   - `abstractive_LLM.ipynb`: Demonstrates abstractive summarization using **Gemini-1.5-Flash LLM**.
-  - Modified versions of extractive and abstractive notebooks (from Week1 and Week2) to include:
+  - Other files in this folder are Modified versions of extractive and abstractive notebooks (from Week1 and Week2) to include:
     - **ROUGE** score calculation.
     - **2-gram BLEU** score evaluation.
 

@@ -45,6 +45,18 @@ Used **Google Gemini** to implement advanced summarization techniques:
 
 ---
 
+## **Evaluation Metrics**  
+To evaluate the quality of generated summaries, we use the following metrics:  
+
+### **1. ROUGE (Recall-Oriented Understudy for Gisting Evaluation)**  
+- Compares the overlap between the generated summary and reference summary using N-grams, word sequences, and longest common subsequences.  
+
+### **2. BLEU (Bilingual Evaluation Understudy)**  
+- Measures how similar the generated summary is to the reference summary by comparing word-level N-grams.  
+- Typically used for machine translation but applied here for summarization.  
+
+---
+
 ## **Gradio Implementation**
 To make these techniques accessible, we integrated them into a **Gradio Web Interface**. Users can:
 - Upload text or PDF files.

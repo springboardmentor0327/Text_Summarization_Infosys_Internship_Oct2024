@@ -38,6 +38,11 @@ This Text Summarization Project aims to develop a tool that efficiently condense
 
   After implementing the approaches, we compare the three using ROUGE score method similar to the method we used in Extractive Text Summarization.
    Open file Abstractive_Summarization_Techniques.ipynb and run all the cells to demonstrate the working of each algorithm.
+   
+#### Comparison of all the techniques using ROGUE AND BLEU scores
+
+  Run all the algorithms on multiple examples and calculate the ROUGE and BLEU scores each time.
+  The summary of the scores generated can found in the file Score Summary.csv
 
 #### Advanced LLM Techniques
 

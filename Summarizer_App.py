@@ -157,7 +157,7 @@ def t5_summarization(text, word_count, summary_style):
 # LLM APPROACH
 
 import os
-userdata = {'GOOGLE_API_KEY': 'AIzaSyAN3nzdD9ffZY6pm3AR608iT0nHlU233uw'}
+userdata = {'GOOGLE_API_KEY': '<Enter your Gemini API key here'}
 os.environ["GOOGLE_API_KEY"] = userdata.get('GOOGLE_API_KEY')
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_core.prompts import ChatPromptTemplate

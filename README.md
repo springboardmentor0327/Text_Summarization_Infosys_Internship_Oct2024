@@ -34,7 +34,15 @@ This Text Summarization Project aims to develop a tool that efficiently condense
   Text Summarization using Abstractive Summarization Techniques:
   1. Google's T5 Approach
   2. Facebook's BART Approach
+  3. LLM Approach
 
-  After implementing the approaches, we compare both of them using ROUGE score method.
+  After implementing the approaches, we compare the three using ROUGE score method similar to the method we used in Extractive Text Summarization.
+   Open file Abstractive_Summarization_Techniques.ipynb and run all the cells to demonstrate the working of each algorithm.
+
+#### Advanced LLM Techniques
+
+  Implementation of techniques like iterative refinement and map reduce to enhance the LLM models.
+  Open file Advanced_LLM.ipynb and run all the cells to demonstrate the working of each technique.
+
 
 

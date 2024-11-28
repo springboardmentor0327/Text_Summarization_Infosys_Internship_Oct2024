@@ -55,6 +55,6 @@ We will use gradio to provide an interactive and abstractive app which users can
 
 1. Download the files Summarizer_App.py and requirements.txt
 2. Install required libraries: run pip install -r requirements.txt
-3. Generate your Gemini API key and enter it in the assigned place in the Summarizer_App.py
+3. Generate your Gemini API key and enter it in the assigned place in the file Summarizer_App.py
 4. Run the python file Summarizer_App.py
 5. Open the generated gradio link to interact with the app.

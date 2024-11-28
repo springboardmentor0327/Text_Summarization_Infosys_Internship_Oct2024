@@ -44,5 +44,11 @@ This Text Summarization Project aims to develop a tool that efficiently condense
   Implementation of techniques like iterative refinement and map reduce to enhance the LLM models.
   Open file Advanced_LLM.ipynb and run all the cells to demonstrate the working of each technique.
 
+### App Implementation
 
+We will use gradio to provide an interactive and abstractive app which users can use to summarize their content using various algorithms.
 
+1. Download the files Summarizer_App.py and requirements.txt
+2. Install required libraries: run pip install -r requirements.txt
+3. Run the python file Summarizer_App.py
+4. Open the generated gradio link to interact with the app.

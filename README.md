@@ -31,7 +31,7 @@ Text summarization aims to create concise, meaningful summaries of input text or
 
 **3. Advanced Summarization**
 
-  **Google’s LLM Models**:Utilized for generating state-of-the-art summaries with an emphasis on semantic understanding and coherence.
+  **->Google’s LLM Models**:Utilized for generating state-of-the-art summaries with an emphasis on semantic understanding and coherence.
 
 Models such as **PaLM (Pathways Language Model)** or **Gemini** (if supported) provide advanced capabilities for abstractive summarization.
 

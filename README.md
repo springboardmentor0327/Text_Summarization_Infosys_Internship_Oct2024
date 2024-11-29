@@ -4,6 +4,7 @@ It covers both extractive and abstractive approaches, as well as advanced techni
 
 **Project Overview**
 Text summarization aims to create concise, meaningful summaries of input text or documents. This project provides a comprehensive solution with:
+
 **1**.Extractive Summarization: Identifies and extracts the most relevant sentences from the input.
 **2**.Abstractive Summarization: Generates summaries by paraphrasing and reinterpreting the input.
 **3**.Advanced Summarization Techniques: Uses LLMs with refined approaches like MapReduce and Refine for scalable and context-aware summarization.

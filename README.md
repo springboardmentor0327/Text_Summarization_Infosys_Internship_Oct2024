@@ -1,6 +1,7 @@
 # Text_Summarization_Infosys_Internship_Oct2024
 This Text Summarization Project aims to develop a tool that efficiently condenses long articles, papers, or documents into concise summaries while preserving the key information and context. Utilizing advanced Natural Language Processing (NLP) techniques, this project focuses on both extractive and abstractive summarization methods.
 
+**Demo Video Link:** https://drive.google.com/file/d/1vU9SR7o73nSGGgRy9zQYBG7MOliSpypt/view?usp=drive_link
 
 SUMMARIZATION OF NLP TECHNIQUES
 Project Overview

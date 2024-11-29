@@ -60,30 +60,30 @@ A user-friendly interface is built using Gradio, allowing users to interact with
 **2.Model Selection:**
 
   
-  **->**For extractive methods: Choose **Frequency, Sumy**, or **Luhn**.
+  For extractive methods: Choose **Frequency, Sumy**, or **Luhn**.
   
-  **->**For abstractive methods: Choose **T5** or **BART**.
+  For abstractive methods: Choose **T5** or **BART**.
   
-  **->**For advanced methods: Utilize **LLMs with Refine or MapReduce**.
+  For advanced methods: Utilize **LLMs with Refine or MapReduce**.
 
   
 **Customizable Parameters**
  
-  **->**Set the **maximum word limit** for summaries.
+  Set the **maximum word limit** for summaries.
  
-  **->**View word counts and summary outputs dynamically.
+  View word counts and summary outputs dynamically.
 
 **4.Outputs**
   
-  **->**Summarized text.
+  Summarized text.
   
-  **->**Word count of the summary.
+  Word count of the summary.
 
   
 **Implementation**
 
 
-**->Technologies Used**
+**Technologies Used**
   
   **1.Python**: Core language for implementation.
   

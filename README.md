@@ -1,18 +1,30 @@
 # Text_Summarization_Infosys_Internship_Oct2024
 This Text Summarization Project aims to develop a tool that efficiently condenses long articles, papers, or documents into concise summaries while preserving the key information and context. Utilizing advanced Natural Language Processing (NLP) techniques, this project focuses on both extractive and abstractive summarization methods.
 
-# Original Summary
-The global smartphone market experienced a significant shift in 2023, with total shipments reaching 1.21 billion units, a decline of 7.1% compared to the previous year. This was primarily due to supply chain disruptions, inflationary pressures, and geopolitical tensions. In contrast, Apple's market share grew from 23.4% in 2022 to 26.5% in 2023, driven by strong demand for the iPhone 14 series, particularly in North America and Europe. Meanwhile, Samsung's market share slightly decreased from 19.1% to 18.7%, despite launching the Galaxy S23 and Galaxy Z Fold 5. Xiaomi retained its third position globally, with an 11.8% market share, but also saw a 10% drop in shipments, largely due to a sluggish market in India. Additionally, 5G-enabled devices accounted for 70% of total smartphone shipments, up from 57% in 2022, reflecting increased consumer demand for faster mobile internet speeds. Analysts predict a rebound in 2024, with smartphone shipments expected to grow by 4.3%, as supply chain constraints ease and new innovations such as foldable screens and AI-powered features become more mainstream.
+Week 1 - Extractive Summarization
 
-# T5 Generated Summary
-The global smartphone market experienced a significant shift in 2023. Total shipments reached 1.21 billion units, a decline of 7.1% compared to the previous year. Analysts predict a rebound in 2024, with smartphone shipments expected to grow by 4.3%.
+Frequency Method: Summarization using term frequency to rank and select the most relevant sentences.
+Sumy Library: Utilized an established library for extractive summarization, offering more flexibility and prebuilt algorithms.
 
-# BART Generated Summary
-The global smartphone market experienced a significant shift in 2023, with total shipments reaching 1.21 billion units, a decline of 7.1% compared to the previous year. 5G-enabled devices accounted for 70% of total smartphone shipments, up from 57% in 2022,reflecting increased consumer demand for faster mobile internet speeds. Analysts predict a rebound in smartphone shipments in the coming year, with shipments expected to grow by 4.3%
-    
-# ROUGE Score table
+Week 2 - Abstractive Summarization
 
-| Model      | ROUGE-1           | ROUGE-2           | ROUGE-L           |
-|:-----------|-------------------|:------------------|:------------------|
-| BART       | 0.5433            | 0.4921            | 0.5118            |
-| T5         | 0.3644            | 0.3318            | 0.3644            |
+T5 Model: Implemented Google's T5 transformer model to generate human-like summaries.
+BART Model: Used the BART transformer model for its ability to paraphrase and compress text effectively.
+
+Week 3 & 4 - Evaluation Metrics: ROUGE and BLEU Scores
+
+Calculated ROUGE scores to measure overlap between the generated and reference summaries.
+Computed BLEU scores to evaluate the quality of machine-generated summaries.
+
+Week 5 - LLM-based Summarization
+
+Implemented Large Language Models (LLMs) for summarization
+
+Week 6 - LangChain Summarization
+
+Leveraged LangChain to process PDF documents and create concise summaries.
+
+Week 7 & 8 - Gradio Interface Development
+
+Combined extractive, abstractive, and LLM-based summarization methods into a single tool.
+Added features such as PDF upload, text input, output word limit setting, and summary evaluation.

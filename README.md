@@ -52,12 +52,18 @@ A user-friendly interface is built using Gradio, allowing users to interact with
 **Key Features:**
 
 **1.Input Options**:
+
   **->Text Input**:Enter plain text for summarization.
+  
   **->PDF Input**:Upload a PDF, and the application extracts text and summarizes it.
 
 **2.Model Selection:**
+
+  
   **->**For extractive methods: Choose **Frequency, Sumy**, or **Luhn**.
+  
   **->**For abstractive methods: Choose **T5** or **BART**.
+  
   **->**For advanced methods: Utilize **LLMs with Refine or MapReduce**.
 
   
